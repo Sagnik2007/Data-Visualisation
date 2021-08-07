@@ -1,0 +1,2 @@
+Mam in the graph as shown in the Graph.png the scatter graph is visible like lines but if we zoomIn we can understand that it is Dots.
+It is because of more data.
